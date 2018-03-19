@@ -1,0 +1,3 @@
+# Poker-Hands TDD Kata
+
+This is a class assignment to demonstrated Test Driven Development. In TDD test code is written first (which fails), then the implementation code which should satisfy the test is written. The test is run again to ascertain that the test passes then modify the code but don't break the test (Green, Red, Refactor). TDD ensures production of robust code which satisfies user requirement. Junit is used as the testing framework.
